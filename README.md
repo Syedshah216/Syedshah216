@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Syed and this is my repository.
+- My portfolio
 
 <!---
 Syedshah216/Syedshah216 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
